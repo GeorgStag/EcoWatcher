@@ -28,9 +28,6 @@ https://georgstag.shinyapps.io/EcoWatcher/
 The latest decades Conspiracy Theories are gaining ground every day due to the ever-expanding web utilities and especially social media. This phenomenon could not leave unaffected the case of Global Warming. Simultaneously, the literacy level of daily people, especially in the topics of Statistics is improving, too. Through this app we aim to give access to anyone for quick easy to double check and share statistical results and visualisations for the phenomenon of Earth Temperature.
 
 The results of the App are based on the Datasets described in the links below. The data can also be downloaded from the App, for verification purposes. 
-
-# Links
-https://georgstag.shinyapps.io/EcoWatcher
 http://berkeleyearth.org/data/
 https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 https://www.kaggle.com/code/amelinvladislav/map-of-temperatures-and-analysis-of-global-warming/data
