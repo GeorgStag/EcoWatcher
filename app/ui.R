@@ -68,7 +68,7 @@ ui <- fluidPage(
                            p('- The regions in grey in maps are regions for which we have no data.'),
                            p('- The data are from kaggle: Map of temperatures and analysis of global warming.'),
                            p('- If you reload the app, it will start with default choices.'),
-                           p('- My personal conclusion is that there is numerically slight global warming which cannot be proved statistically yet (Temperature Comparison Tab).')
+                           
                   ),
       ))
     
